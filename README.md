@@ -9,19 +9,6 @@
 - ⚡ Fun fact: I love to draw and play guitar/piano
 ### Connect with me:
 
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/)()
-[![website](./img/youtube-dark.svg)](https://youtube.com/)()
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/)
-[![website](./img/twitter-dark.svg)](https://twitter.com/)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/)
-[![website](./img/instagram-dark.svg)](https://instagram.com/)
-
 ### Languages and Tools:
 
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][]
