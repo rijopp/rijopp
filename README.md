@@ -10,8 +10,8 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/)
-[![website](./img/youtube-dark.svg)](https://youtube.com/)
+[![website](./img/youtube-light.svg)](https://youtube.com/)()
+[![website](./img/youtube-dark.svg)](https://youtube.com/)()
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/)
 [![website](./img/twitter-dark.svg)](https://twitter.com/)
