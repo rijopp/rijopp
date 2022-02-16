@@ -1,6 +1,6 @@
 # Hi there, I'm Rijo - 👋 
 
-## I'm a Developer,Creator,and Mentor !!
+## I'm a Developer, Creator and Mentor !!
 
 - ✍ You can find my projects here portfolio
 - 🌱 I’m currently learning everything 🤣
