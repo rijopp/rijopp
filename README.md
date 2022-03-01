@@ -4,10 +4,10 @@
 ## I'm a Developer, Creator and Mentor !!
 
 - ✍ You can find my projects here portfolio
-- 🌱 I’m currently learning cloud security
+- 🌱 I’m currently learning flutter
 - 👯 I’m looking to collaborate with other content creators
 - 👯 I’m looking to collaborate on open source
-- ⚡ Fun fact: I love to draw and play guitar/piano
+- ⚡ Fun fact: I love to play guitar/piano
 ### Connect with me:
 
 ### Languages and Tools:
