@@ -3,7 +3,7 @@
 ## I'm a Developer, Creator and Mentor !!
 
 - ✍ You can find my projects here portfolio
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning cloud security
 - 👯 I’m looking to collaborate with other content creators
 - 👯 I’m looking to collaborate on open source
 - ⚡ Fun fact: I love to draw and play guitar/piano
@@ -21,7 +21,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
 <br />
 <br />
----
 
 ### 📺 Latest YouTube Videos
 
